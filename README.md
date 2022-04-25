@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-reposit-rio
-Desafio de Projeto sobre Git/GitHub
+# Desafio de Projetos Git/GitHub
+### Este repositório foi criado para anotações e práticas do Git e GitHub
